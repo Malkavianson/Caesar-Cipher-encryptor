@@ -5,5 +5,5 @@ How to use:
 
 NODE JS 13.14 or newer
 
-npm i prompt-sync
+  ```npm i prompt-sync```
 
