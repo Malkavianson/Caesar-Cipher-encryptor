@@ -7,5 +7,5 @@ NODE JS 13.14 or newer
 
   ```npm i prompt-sync```
 
-start: ```node CD.js```
+Start: ```node CD.js```
 
